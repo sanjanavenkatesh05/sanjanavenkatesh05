@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="50" style="border-radius: 10px;" />
-</div>
-
-<br>
-
-<h1 align="center">Hi there, I'm Sanjana!</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="100" style="vertical-align: middle; border-radius: 10px; margin-right: 15px;" />
+  Hi there, I'm Sanjana!
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,18 +9,17 @@
   </a>
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB3cDhmZ2Nsb3QzeTFoMjdmZ2Zic3Njb2xxYzBob3JoY2lobDh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" alt="Ponyo Swimming" width="250" style="border-radius: 10px;" />
-</div>
-
 ---
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB3cDhmZ2Nsb3QzeTFoMjdmZ2Zic3Njb2xxYzBob3JoY2lobDh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" alt="Ponyo Swimming" width="250" style="border-radius: 10px; margin-left: 20px;" />
+
 ### About Me  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - Senior Computer Science Engineering student pursuing a minor in **VLSI**. 
 - Actively grinding data structures and algorithms, with over 100 questions completed on **LeetCode**.
 - When I'm not coding, I'm building custom microkernels, tracking down bugs in web apps, or creating interactive physics simulations.
 - Always ready for the next adventure in hardware architecture or backend development! (=^･ω･^=)
+
+<br clear="all" />
 
 ---
 
