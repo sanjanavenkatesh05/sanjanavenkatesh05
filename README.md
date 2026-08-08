@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="250" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="50" style="border-radius: 10px;" />
 </div>
 
 <br>
