@@ -1,61 +1,68 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="50" style="vertical-align: middle; border-radius: 5px;" />
   Hi there, I'm Sanjana!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" />
+  <img src="https://media.giphy.com/media/o8xWnoE0K3nNK/giphy.gif" alt="Ponyo Swimming" width="50" style="vertical-align: middle; border-radius: 5px;" />
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=CS+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Low-Level+Systems+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F28C8C&center=true&vCenter=true&width=450&lines=Senior+CS+Engineering+Student;Full-Stack+Developer;Low-Level+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🌸 About Me
--  I'm currently a 4th-year Computer Science Engineering student.
--  Pursuing a minor in **VLSI** because I love diving deep into hardware and architecture!
--  Actively grinding data structures and competitive programming on **LeetCode**.
--  When I'm not coding, I'm building custom microkernels, tracking down bugs in web apps, or creating interactive physics simulations.
+### About Me  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- Senior Computer Science Engineering student pursuing a minor in **VLSI**. 
+- Actively grinding data structures and algorithms, with over 200 questions completed on **LeetCode**.
+- When I'm not coding, I'm building custom microkernels, tracking down bugs in web apps, or creating interactive physics simulations.
+- Always ready for the next adventure in hardware architecture or backend development! (=^･ω･^=)
 
 ---
 
-### 🎀 My Tech Stack
+### My Tech Stack  (⌐■_■)
 
-** Backend & Full-Stack**
+**Backend & Full-Stack**
 <p>
-  <img src="https://img.shields.io/badge/Django-ff69b4?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-ffb6c1?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-ff1493?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_Stack-ff82ab?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-78A2CC?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-87CEFA?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-ADD8E6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-B0E0E6?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-**⚙️ Low-Level & Hardware**
+**Low-Level & Hardware**
 <p>
-  <img src="https://img.shields.io/badge/Microkernels-ff69b4?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-ffb6c1?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-ff1493?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microkernels-F28C8C?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-F08080?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-FA8072?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-** Simulations & Web Graphics**
+**Simulations & Web Graphics**
 <p>
-  <img src="https://img.shields.io/badge/VPython-ff82ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/p5.js-ff69b4?style=for-the-badge&logo=p5dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matter.js-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPython-98FB98?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/p5.js-90EE90?style=for-the-badge&logo=p5dotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matter.js-8FBC8F?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
-###  Coding Profiles
+
+---
+
+### Connect & Compete  (☞ﾟヮﾟ)☞
 <p>
-  <a href="https://leetcode.com/u/sanjanavenkatesh05/">
-    <img src="https://img.shields.io/badge/LeetCode-ffb6c1?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.linkedin.com/in/sanjana-venkatesh-899251212/">
+    <img src="https://img.shields.io/badge/LinkedIn-78A2CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.codechef.com/users/vsanjana_05">
-    <img src="https://img.shields.io/badge/CodeChef-ff1493?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <a href="[YOUR_LEETCODE_URL_HERE](https://leetcode.com/u/sanjanavenkatesh05/)">
+    <img src="https://img.shields.io/badge/LeetCode-FFA07A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="[YOUR_CODECHEF_URL_HERE](https://www.codechef.com/users/vsanjana_05)">
+    <img src="https://img.shields.io/badge/CodeChef-E9967A?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
+
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMwMjk3NjZhYWE0Mzc2ZWYzYzcxNjJhMGEwY2UwY2QzNDhmZTRjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/L0z2TElFq9R0DpxkL8/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U2azE3ZDdxOXFzcGd2cTBtMjAxeXUyaXVpMG82czN5YncwcXBoeiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3o7TKFvjDNaOekjlu0/giphy.gif" width="200" alt="Jiji the cat" />
   <br/>
-  <i>Thanks for visiting! Let's build something awesome.</i>
+  <i>"We each need to find our own inspiration. Sometimes it's not easy." – Kiki's Delivery Service</i>
 </div>
