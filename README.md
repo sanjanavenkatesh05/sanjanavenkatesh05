@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="85" style="vertical-align: middle; border-radius: 5px;" />
-  Hi there, I'm Sanjana!
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="85" style="vertical-align: middle; border-radius: 5px;" /> <br>
+  Hi there, I'm Sanjana! <br>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB3cDhmZ2Nsb3QzeTFoMjdmZ2Zic3Njb2xxYzBob3JoY2lobDh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" alt="Ponyo Swimming" width="50" style="vertical-align: middle; border-radius: 5px;" />
 </h1>
 
