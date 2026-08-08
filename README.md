@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="200" style="border-radius: 10px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB3cDhmZ2Nsb3QzeTFoMjdmZ2Zic3Njb2xxYzBob3JoY2lobDh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" alt="Ponyo" width="200" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Kiki Flying" width="250" style="border-radius: 10px;" />
 </div>
 
 <br>
@@ -13,8 +11,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F28C8C&center=true&vCenter=true&width=450&lines=Senior+CS+Engineering+Student;Full-Stack+Developer;Low-Level+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
----
 
+<br>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB3cDhmZ2Nsb3QzeTFoMjdmZ2Zic3Njb2xxYzBob3JoY2lobDh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" alt="Ponyo Swimming" width="250" style="border-radius: 10px;" />
+</div>
+
+---
 ### About Me  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - Senior Computer Science Engineering student pursuing a minor in **VLSI**. 
 - Actively grinding data structures and algorithms, with over 100 questions completed on **LeetCode**.
